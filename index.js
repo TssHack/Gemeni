@@ -11,7 +11,9 @@ const API_KEYS = [
     "AIzaSyCo5VB_H6pN-DDk1YUjR2MLYV6d4CdRItM", // Replace with your actual key 1
     "AIzaSyBv27XqopLRpDoJWoETuVN5XWnfjQnaf-E", // Replace with your actual key 2
     "AIzaSyBv8Ix7n9sPvswwazsXyQuzrhUifaKgEXE", // Replace with your actual key 3
-    "AIzaSyBq_BlDIr2Qtc3Bgb1u7hkOhQwfmuhdZ18", // Replace with your actual key 4
+    "AIzaSyBq_BlDIr2Qtc3Bgb1u7hkOhQwfmuhdZ18",
+    "AIzaSyCrJHVARx1NVmD0STo0rJmd7C3I8aJ1-EY",
+    // Replace with your actual key 4
     // Add more keys here if needed
 ];
 
