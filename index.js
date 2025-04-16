@@ -106,7 +106,7 @@ const MODEL_ALIAS = {
     "imagen3": "imagen-3.0-generate-002", // Imagen model
 
     // --- Keep Original '2' alias if still needed ---
-    "2": "gemini-1.5-flash-latest", // Mapping original '2' to latest flash
+    "1.5.5": "gemini-1.5-flash-latest", // Mapping original '2' to latest flash
 };
 
 
