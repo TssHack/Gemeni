@@ -17,7 +17,7 @@ const API_KEYS = [
 const MODEL_ALIAS = {
   "2": "gemini-2.0-flash",
   "1.5pro": "gemini-1.5-pro",
-  "2.5pro": "gemini-2.5-pro-preview-03-25"
+  "2.5pro": "gemini-2.5.pro-exp-03-25"
 };
 
 app.use(bodyParser.json());
